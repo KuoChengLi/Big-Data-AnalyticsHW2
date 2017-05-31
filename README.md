@@ -21,7 +21,7 @@ rcParams['figure.figsize'] = 20, 6
 data = pd.read_csv('C:/Users/MAX/Desktop/LargeTrain.csv')
 train = pd.DataFrame(data)
 a= lambda x: x-1                          
-train['Class']=train['Class'].apply(a)     #change the range of column Class
+train['Class']=train['Class'].apply(a)     #change the range of the column "Class"
 ```
 ### initial estimating
 ```

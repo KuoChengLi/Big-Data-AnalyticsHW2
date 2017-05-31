@@ -1,5 +1,5 @@
 ## Big-Data-AnalyticsHW2
-## Basic useful feature list:
+# Basic useful feature list:
 
  * Ctrl+S / Cmd+S to save the file
  * Ctrl+Shift+S / Cmd+Shift+S to choose to save as Markdown or HTML

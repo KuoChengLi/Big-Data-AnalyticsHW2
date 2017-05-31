@@ -5,6 +5,7 @@
  * Ctrl+Shift+S / Cmd+Shift+S to choose to save as Markdown or HTML
  * Drag and drop a file into here to load it
  * File contents are saved in the URL so you can share files
+```
 import itertools
 import pandas as pd
 import numpy as np
@@ -18,4 +19,4 @@ from sklearn.metrics import confusion_matrix
 import matplotlib.pylab as plt
 %matplotlib inline
 from matplotlib.pylab import rcParams
-rcParams['figure.figsize'] = 20, 6
+rcParams['figure.figsize'] = 20, 6 ```

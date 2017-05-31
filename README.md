@@ -19,4 +19,5 @@ from sklearn.metrics import confusion_matrix
 import matplotlib.pylab as plt
 %matplotlib inline
 from matplotlib.pylab import rcParams
-rcParams['figure.figsize'] = 20, 6 ```
+rcParams['figure.figsize'] = 20, 6 
+'''
